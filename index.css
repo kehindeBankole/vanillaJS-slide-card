@@ -1,0 +1,15 @@
+.card {
+    width: 50px;
+    height: 300px;
+    display: inline-block;
+    margin: auto !important;
+    align-items: center !important;
+    transition: 0.3s;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.close {
+    width: 300px;
+    height: 300px;
+}
